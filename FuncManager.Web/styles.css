@@ -1,0 +1,5 @@
+﻿input[type="text"],
+input[type="date"],
+select {
+    min-width: 100%;
+}
